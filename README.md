@@ -126,8 +126,5 @@
 		<a href="https://discordapp.com/users/1186307792777257040">
 			<img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white&logoSize=auto" alt="Discord" width="17.5%" />
 		</a>
-		<a href="https://steamcommunity.com/id/swagg3rballs/">
-			<img src="https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white&logoSize=auto" alt="Steam" width="14.2%">
-		</a>
 	</div>
 </div>
