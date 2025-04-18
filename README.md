@@ -1,4 +1,6 @@
-# ✨ 𝘼𝙗𝙤𝙪𝙩 𝙈𝙚 <img align="right" src="https://komarev.com/ghpvc/?username=DontCallMeLuca&color=brightgreen&style=for-the-badge&label=VISITORS&abbreviated=true" alt="Visitors" /><a href="#contact-me"><img align="right" src="https://img.shields.io/badge/Contact_Me-%237F52FF.svg?style=for-the-badge&logo=mail&logoColor=white" alt="Contact Me" /></a>
+# ✨ 𝘼𝙗𝙤𝙪𝙩 𝙈𝙚 <img align="right" src="https://komarev.com/ghpvc/?username=Arty3&color=brightgreen&style=for-the-badge&label=VISITORS&abbreviated=true&base=1000" alt="Visitors" /><a href="#contact-me"><img align="right" src="https://img.shields.io/badge/Contact_Me-%237F52FF.svg?style=for-the-badge&logo=mail&logoColor=white" alt="Contact Me" /></a>
+
+<!-- Weird stats changes cuz account name change -->
 
 - 🚀 𝙃𝙚𝙡𝙡𝙤! 𝙈𝙮 𝙣𝙖𝙢𝙚 𝙞𝙨 𝙇𝙪𝙘𝙖. 𝙄 𝙬𝙖𝙨 𝙗𝙤𝙧𝙣 𝙞𝙣 𝙋𝙤𝙧𝙩𝙪𝙜𝙖𝙡, 𝙜𝙧𝙚𝙬 𝙪𝙥 𝙞𝙣 𝙄𝙩𝙖𝙡𝙮, 𝙖𝙣𝙙 𝙣𝙤𝙬 𝙡𝙞𝙫𝙚 𝙞𝙣 𝘼𝙢𝙨𝙩𝙚𝙧𝙙𝙖𝙢.
 
@@ -12,9 +14,9 @@
 
 <br>
 <p align="left">
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DontCallMeLuca&layout=compact&theme=dark&include_all_commits=false&count_private=false" width="45%" align="center" />
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arty3&layout=compact&theme=dark&include_all_commits=false&count_private=false" width="45%" align="center" />
 	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-	<img src="https://github-profile-trophy.vercel.app/?username=DontCallMeLuca&theme=radical&rank=-B,-C,-?&no-frame=true&no-bg=true&column=3&row=2" width="45%" align="center" alt="Tophies Might be Rate Limited" />
+	<img src="https://github-profile-trophy.vercel.app/?username=Arty3&theme=radical&rank=-B,-C,-?&no-frame=true&no-bg=true&column=3&row=2" width="45%" align="center" alt="Tophies Might be Rate Limited" />
 </p>
 
 <h1>💻 𝙏𝙚𝙘𝙝𝙣𝙤𝙡𝙤𝙜𝙞𝙚𝙨</h1>
