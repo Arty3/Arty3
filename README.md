@@ -14,10 +14,66 @@
 
 <br>
 <p align="left">
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arty3&layout=compact&theme=dark&include_all_commits=false&count_private=false" width="45%" align="center" />
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arty3&layout=compact&theme=github_dark&include_all_commits=false&count_private=false&langs_count=8&hide=HTML,R&custom_title=Most Languages I've Used" width="45%" align="center" />
 	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 	<img src="https://github-profile-trophy.vercel.app/?username=Arty3&theme=radical&rank=-B,-C,-?&no-frame=true&no-bg=true&column=3&row=2" width="45%" align="center" alt="Tophies Might be Rate Limited" />
 </p>
+
+<h1>🏆 𝙍𝙚𝙥𝙤𝙨𝙞𝙩𝙤𝙧𝙞𝙚𝙨</h1>
+
+<h3>𝙎𝙤𝙢𝙚 𝙞𝙣𝙩𝙚𝙧𝙚𝙨𝙩𝙞𝙣𝙜 𝙧𝙚𝙥𝙤𝙨𝙞𝙩𝙤𝙧𝙞𝙚𝙨 𝙮𝙤𝙪 𝙢𝙞𝙜𝙝𝙩 𝙡𝙞𝙠𝙚<i>:</i></h3>
+
+<table style="border-collapse: collapse; border: none; width: 100%; background-color: transparent;">
+	<tr style="border: none; background-color: transparent;">
+		<td style="border: none; padding: 10px; width: 50%; background-color: transparent;">
+			<a href="https://github.com/Arty3/Stack-Obfuscator">
+				<img src="https://github-readme-stats.vercel.app/api/pin/?username=Arty3&repo=Stack-Obfuscator&show_owner=false&theme=ambient_gradient&description_lines_count=2" width="100%" />
+			</a>
+		</td>
+		<td style="border: none; padding: 10px; width: 50%; background-color: transparent;">
+			<a href="https://github.com/Arty3/Stack-Protector">
+				<img src="https://github-readme-stats.vercel.app/api/pin/?username=Arty3&repo=Stack-Protector&show_owner=false&theme=ambient_gradient&description_lines_count=2" width="100%" />
+			</a>
+		</td>
+	</tr>
+	<tr style="border: none; background-color: transparent;">
+		<td style="border: none; padding: 10px; width: 50%; background-color: transparent;">
+			<a href="https://github.com/Arty3/WebServ">
+				<img src="https://github-readme-stats.vercel.app/api/pin/?username=Arty3&repo=WebServ&show_owner=false&theme=ambient_gradient&description_lines_count=2" width="100%" />
+			</a>
+		</td>
+		<td style="border: none; padding: 10px; width: 50%; background-color: transparent;">
+			<a href="https://github.com/Arty3/Binary-Image-Classification-Neural-Network">
+				<img src="https://github-readme-stats.vercel.app/api/pin/?username=Arty3&repo=Binary-Image-Classification-Neural-Network&show_owner=false&theme=ambient_gradient&description_lines_count=2" width="100%" />
+			</a>
+		</td>
+	</tr>
+	<tr style="border: none; background-color: transparent;">
+		<td style="border: none; padding: 10px; width: 50%; background-color: transparent;">
+			<a href="https://github.com/Arty3/Unturned-Skins-Mod">
+				<img src="https://github-readme-stats.vercel.app/api/pin/?username=Arty3&repo=Unturned-Skins-Mod&show_owner=false&theme=ambient_gradient&description_lines_count=2" width="100%" />
+			</a>
+		</td>
+		<td style="border: none; padding: 10px; width: 50%; background-color: transparent;">
+			<a href="https://github.com/Arty3/My-Unturned-Plugins">
+				<img src="https://github-readme-stats.vercel.app/api/pin/?username=Arty3&repo=My-Unturned-Plugins&show_owner=false&theme=ambient_gradient&description_lines_count=2" width="100%" />
+			</a>
+		</td>
+	</tr>
+	</tr>
+	<tr style="border: none; background-color: transparent;">
+		<td style="border: none; padding: 10px; width: 50%; background-color: transparent;">
+			<a href="https://github.com/Arty3/WorstHelloWorld">
+				<img src="https://github-readme-stats.vercel.app/api/pin/?username=Arty3&repo=WorstHelloWorld&show_owner=false&theme=ambient_gradient&description_lines_count=2" width="100%" />
+			</a>
+		</td>
+		<td style="border: none; padding: 10px; width: 50%; background-color: transparent;">
+			<a href="https://github.com/Arty3/Battleye-HWID-Spoofer">
+				<img src="https://github-readme-stats.vercel.app/api/pin/?username=Arty3&repo=Battleye-HWID-Spoofer&show_owner=false&theme=ambient_gradient&description_lines_count=2" width="100%" />
+			</a>
+		</td>
+	</tr>
+</table>
 
 <h1>💻 𝙏𝙚𝙘𝙝𝙣𝙤𝙡𝙤𝙜𝙞𝙚𝙨</h1>
 
