@@ -19,7 +19,7 @@
 	<img src="https://github-profile-trophy.vercel.app/?username=Arty3&theme=radical&rank=-B,-C,-?&no-frame=true&no-bg=true&column=3&row=2" width="45%" align="center" alt="Tophies Might be Rate Limited" />
 </div>
 
-<h1>🏆 𝙈𝙮 𝙛𝙖𝙫𝙤𝙧𝙞𝙩𝙚 𝙧𝙚𝙥𝙤𝙨𝙞𝙩𝙤𝙧𝙞𝙚𝙨</h1>
+<h1>🏆 𝙈𝙮 𝙁𝙖𝙫𝙤𝙧𝙞𝙩𝙚 𝙍𝙚𝙥𝙤𝙨𝙞𝙩𝙤𝙧𝙞𝙚𝙨</h1>
 
 <div align="center">
 	<a href="https://github.com/Arty3/Stack-Obfuscator">
