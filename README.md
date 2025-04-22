@@ -14,7 +14,7 @@
 
 <br>
 <div align="center">
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arty3&layout=compact&theme=github_dark&include_all_commits=false&count_private=false&langs_count=8&hide=HTML,R&custom_title=Most Languages I've Used" width="45%" align="center" alt="Top Languages Might be Rate Limited" />
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arty3&layout=compact&theme=github_dark&include_all_commits=false&count_private=false&langs_count=8&hide=HTML,R" width="45%" align="center" alt="Top Languages Might be Rate Limited" />
 	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 	<img src="https://github-profile-trophy.vercel.app/?username=Arty3&theme=radical&rank=-B,-C,-?&no-frame=true&no-bg=true&column=3&row=2" width="45%" align="center" alt="Tophies Might be Rate Limited" />
 </div>
