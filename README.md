@@ -1,4 +1,4 @@
-# ✨ 𝘼𝙗𝙤𝙪𝙩 𝙈𝙚 <img align="right" src="https://komarev.com/ghpvc/?username=Arty3&color=brightgreen&style=for-the-badge&label=VISITORS&abbreviated=true&base=1000" alt="Visitors" /><a href="#contact-me"><img align="right" src="https://img.shields.io/badge/Contact_Me-%237F52FF.svg?style=for-the-badge&logo=mail&logoColor=white" alt="Contact Me" /></a>
+# 🌌 𝘼𝙗𝙤𝙪𝙩 𝙈𝙚 <img align="right" src="https://komarev.com/ghpvc/?username=Arty3&color=brightgreen&style=for-the-badge&label=VISITORS&abbreviated=true&base=1000" alt="Visitors" /><a href="#contact-me"><img align="right" src="https://img.shields.io/badge/Contact_Me-%237F52FF.svg?style=for-the-badge&logo=mail&logoColor=white" alt="Contact Me" /></a>
 
 <!-- Weird stats changes cuz account name change -->
 
@@ -10,7 +10,7 @@
 
 - ⭐ 𝙊𝙫𝙚𝙧 𝙝𝙖𝙡𝙛 𝙖 𝙙𝙚𝙘𝙖𝙙𝙚 𝙤𝙛 𝙥𝙧𝙤𝙜𝙧𝙖𝙢𝙢𝙞𝙣𝙜 𝙚𝙭𝙥𝙚𝙧𝙞𝙚𝙣𝙘𝙚
 
-- 🛠️ 𝙀𝙭𝙥𝙚𝙘𝙩 𝙢𝙖𝙣𝙮 𝙢𝙤𝙧𝙚 𝙥𝙧𝙤𝙟𝙚𝙘𝙩𝙨 𝙨𝙤𝙤𝙣!
+- ✨ 𝙄 𝙡𝙤𝙫𝙚 𝙩𝙤 𝙘𝙧𝙚𝙖𝙩𝙚 𝙢𝙪𝙨𝙞𝙘, 𝙥𝙤𝙬𝙚𝙧𝙡𝙞𝙛𝙩 𝙖𝙣𝙙 𝙗𝙤𝙪𝙡𝙙𝙚𝙧
 
 <br>
 <p align="left">
