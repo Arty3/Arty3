@@ -21,6 +21,8 @@
 
 <h1>🏆 𝙈𝙮 𝙁𝙖𝙫𝙤𝙧𝙞𝙩𝙚 𝙍𝙚𝙥𝙤𝙨𝙞𝙩𝙤𝙧𝙞𝙚𝙨</h1>
 
+<!-- Brother istfg this little blue underscore will drive me insane -->
+
 <div align="center">
 	<a href="https://github.com/Arty3/Stack-Obfuscator">
 		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Arty3&repo=Stack-Obfuscator&show_owner=false&theme=ambient_gradient&description_lines_count=2" width="48%" align="center" alt="" />
