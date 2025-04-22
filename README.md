@@ -13,23 +13,23 @@
 - ✨ 𝙄 𝙡𝙤𝙫𝙚 𝙩𝙤 𝙘𝙧𝙚𝙖𝙩𝙚 𝙢𝙪𝙨𝙞𝙘<i>,</i> 𝙥𝙤𝙬𝙚𝙧𝙡𝙞𝙛𝙩 𝙖𝙣𝙙 𝙗𝙤𝙪𝙡𝙙𝙚𝙧.
 
 <br>
-<p align="left">
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arty3&layout=compact&theme=github_dark&include_all_commits=false&count_private=false&langs_count=8&hide=HTML,R&custom_title=Most Languages I've Used" width="45%" align="center" alt="Languages Might be Rate Limited" />
+<div align="center">
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arty3&layout=compact&theme=github_dark&include_all_commits=false&count_private=false&langs_count=8&hide=HTML,R&custom_title=Most Languages I've Used" width="45%" align="center" alt="Top Languages Might be Rate Limited" />
 	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 	<img src="https://github-profile-trophy.vercel.app/?username=Arty3&theme=radical&rank=-B,-C,-?&no-frame=true&no-bg=true&column=3&row=2" width="45%" align="center" alt="Tophies Might be Rate Limited" />
-</p>
+</div>
 
 <h1>🏆 𝙈𝙮 𝙛𝙖𝙫𝙤𝙧𝙞𝙩𝙚 𝙧𝙚𝙥𝙤𝙨𝙞𝙩𝙤𝙧𝙞𝙚𝙨</h1>
 
-<p align="left">
-	<a href="https://github.com/Arty3/Stack-Obfuscator" style="text-decoration: none;">
-		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Arty3&repo=Stack-Obfuscator&show_owner=false&theme=ambient_gradient&description_lines_count=2" width="45%" align="center" alt="" />
+<div align="center">
+	<a href="https://github.com/Arty3/Stack-Obfuscator">
+		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Arty3&repo=Stack-Obfuscator&show_owner=false&theme=ambient_gradient&description_lines_count=2" align="center" alt="" />
 	</a>
-	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-	<a href="https://github.com/Arty3/Worst-Hello-World" style="text-decoration: none;">
-		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Arty3&repo=Worst-Hello-World&show_owner=false&theme=ambient_gradient&description_lines_count=2" width="45%" align="center" alt="" />
+	&nbsp;&nbsp;&nbsp;&nbsp;
+	<a href="https://github.com/Arty3/Worst-Hello-World">
+		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Arty3&repo=Worst-Hello-World&show_owner=false&theme=ambient_gradient&description_lines_count=2" align="center" alt="" />
 	</a>
-</p>
+</div>
 
 <h1>💻 𝙏𝙚𝙘𝙝𝙣𝙤𝙡𝙤𝙜𝙞𝙚𝙨</h1>
 
@@ -131,7 +131,7 @@
 
 <div align="center">
 	<div align="center" valign="middle" width="50%">
-		<h1 id="contact-me">𝙍𝙚𝙖𝙘𝙝 𝙊𝙪𝙩 𝙏𝙤 𝙈𝙚</h1>
+		<h2 id="contact-me">𝙍𝙚𝙖𝙘𝙝 𝙊𝙪𝙩 𝙏𝙤 𝙈𝙚</h2>
 		<a href="mailto:luca.goddijn@gmail.com">
 			<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&logoSize=auto" alt="Email" width="14.5%" />
 		</a>
