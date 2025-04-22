@@ -22,11 +22,11 @@
 <h1>🏆 𝙈𝙮 𝙛𝙖𝙫𝙤𝙧𝙞𝙩𝙚 𝙧𝙚𝙥𝙤𝙨𝙞𝙩𝙤𝙧𝙞𝙚𝙨</h1>
 
 <p align="left">
-	<a href="https://github.com/Arty3/Stack-Obfuscator">
+	<a href="https://github.com/Arty3/Stack-Obfuscator" style="text-decoration: none;">
 		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Arty3&repo=Stack-Obfuscator&show_owner=false&theme=ambient_gradient&description_lines_count=2" width="45%" align="center" alt="" />
 	</a>
 	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-	<a href="https://github.com/Arty3/Worst-Hello-World">
+	<a href="https://github.com/Arty3/Worst-Hello-World" style="text-decoration: none;">
 		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Arty3&repo=Worst-Hello-World&show_owner=false&theme=ambient_gradient&description_lines_count=2" width="45%" align="center" alt="" />
 	</a>
 </p>
