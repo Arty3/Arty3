@@ -14,22 +14,22 @@
 
 <br>
 <p align="left">
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arty3&layout=compact&theme=github_dark&include_all_commits=false&count_private=false&langs_count=8&hide=HTML,R&custom_title=Most Languages I've Used" width="45%" align="center" />
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arty3&layout=compact&theme=github_dark&include_all_commits=false&count_private=false&langs_count=8&hide=HTML,R&custom_title=Most Languages I've Used" width="45%" align="center" alt="Languages Might be Rate Limited" />
 	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 	<img src="https://github-profile-trophy.vercel.app/?username=Arty3&theme=radical&rank=-B,-C,-?&no-frame=true&no-bg=true&column=3&row=2" width="45%" align="center" alt="Tophies Might be Rate Limited" />
 </p>
 
-<h1>🏆 𝙍𝙚𝙥𝙤𝙨𝙞𝙩𝙤𝙧𝙞𝙚𝙨</h1>
+<h1>🏆 𝙈𝙮 𝙛𝙖𝙫𝙤𝙧𝙞𝙩𝙚 𝙧𝙚𝙥𝙤𝙨𝙞𝙩𝙤𝙧𝙞𝙚𝙨</h1>
 
-<h3>𝙎𝙤𝙢𝙚 𝙞𝙣𝙩𝙚𝙧𝙚𝙨𝙩𝙞𝙣𝙜 𝙧𝙚𝙥𝙤𝙨𝙞𝙩𝙤𝙧𝙞𝙚𝙨 𝙮𝙤𝙪 𝙢𝙞𝙜𝙝𝙩 𝙡𝙞𝙠𝙚<i>:</i></h3>
-
-[![](https://github-readme-stats.vercel.app/api/pin/?username=Arty3&repo=Stack-Obfuscator&show_owner=false&theme=ambient_gradient&description_lines_count=2)](https://github.com/Arty3/Stack-Obfuscator) [![](https://github-readme-stats.vercel.app/api/pin/?username=Arty3&repo=Stack-Protector&show_owner=false&theme=ambient_gradient&description_lines_count=2)](https://github.com/Arty3/Stack-Protector)
-
-[![](https://github-readme-stats.vercel.app/api/pin/?username=Arty3&repo=WebServ&show_owner=false&theme=ambient_gradient&description_lines_count=2)](https://github.com/Arty3/WebServ) [![](https://github-readme-stats.vercel.app/api/pin/?username=Arty3&repo=Binary-Image-Classification-Neural-Network&show_owner=false&theme=ambient_gradient&description_lines_count=2)](https://github.com/Arty3/Binary-Image-Classification-Neural-Network)
-
-[![](https://github-readme-stats.vercel.app/api/pin/?username=Arty3&repo=Unturned-Skins-Mod&show_owner=false&theme=ambient_gradient&description_lines_count=2)](https://github.com/Arty3/Unturned-Skins-Mod) [![](https://github-readme-stats.vercel.app/api/pin/?username=Arty3&repo=My-Unturned-Plugins&show_owner=false&theme=ambient_gradient&description_lines_count=2)](https://github.com/Arty3/My-Unturned-Plugins)
-
-[![](https://github-readme-stats.vercel.app/api/pin/?username=Arty3&repo=WorstHelloWorld&show_owner=false&theme=ambient_gradient&description_lines_count=2)](https://github.com/Arty3/WorstHelloWorld) [![](https://github-readme-stats.vercel.app/api/pin/?username=Arty3&repo=Battleye-HWID-Spoofer&show_owner=false&theme=ambient_gradient&description_lines_count=2)](https://github.com/Arty3/Battleye-HWID-Spoofer)
+<p align="left">
+	<a href="https://github.com/Arty3/Stack-Obfuscator">
+		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Arty3&repo=Stack-Obfuscator&show_owner=false&theme=ambient_gradient&description_lines_count=2" width="45%" align="center" alt="" />
+	</a>
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+	<a href="https://github.com/Arty3/Worst-Hello-World">
+		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Arty3&repo=Worst-Hello-World&show_owner=false&theme=ambient_gradient&description_lines_count=2" width="45%" align="center" alt="" />
+	</a>
+</p>
 
 <h1>💻 𝙏𝙚𝙘𝙝𝙣𝙤𝙡𝙤𝙜𝙞𝙚𝙨</h1>
 
