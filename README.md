@@ -21,7 +21,7 @@
 
 <h1>💻 𝙏𝙚𝙘𝙝𝙣𝙤𝙡𝙤𝙜𝙞𝙚𝙨</h1>
 
-## 🛠️ 𝙎𝙮𝙨𝙩𝙚𝙢𝙨 & 𝙇𝙤𝙬-𝙇𝙚𝙫𝙚𝙡
+## 🛠️ 𝙎𝙮𝙨𝙩𝙚𝙢𝙨 <i>&</i> 𝙇𝙤𝙬-𝙇𝙚𝙫𝙚𝙡
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Assembly](https://img.shields.io/badge/assembly-%23000000.svg?style=for-the-badge&logo=assemblyscript&logoColor=white)
