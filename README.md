@@ -17,6 +17,7 @@
 
 ---
 
+<br>
 <div align="center">
 	<h3 align="left">📌 𝙏𝙤𝙥 𝙇𝙖𝙣𝙜𝙪𝙖𝙜𝙚𝙨</h3>
 	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arty3&layout=compact&theme=github_dark&include_all_commits=false&count_private=false&langs_count=8&hide=HTML,R,Makefile" width="45%" align="left" alt="Top Languages Might be Rate Limited" />
