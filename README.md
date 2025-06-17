@@ -37,7 +37,7 @@
 
 ---
 
-<h2 align="left">🏆 𝙏𝙧𝙤𝙥𝙝𝙮 𝘾𝙖𝙗𝙞𝙣𝙚𝙩</h2>
+<h1 align="left">🏆 𝙏𝙧𝙤𝙥𝙝𝙮 𝘾𝙖𝙗𝙞𝙣𝙚𝙩</h1>
 <div align="left"><!-- Weird trophy mashup cuz of old account --><img src="https://github-profile-trophy.vercel.app/?username=Arty3&theme=radical&rank=-c,-?&title=-Experience&no-frame=true&no-bg=true&column=5&row=1" width="80%" alt="Trophies Might be Rate Limited" /><img src="https://github-profile-trophy.vercel.app/?username=hamsterhamster98&theme=radical&no-frame=true&no-bg=true&column=1&row=1&title=Experience" width="16%" alt="" /></div>
 
 ---
