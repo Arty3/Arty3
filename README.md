@@ -12,6 +12,11 @@
 
 ---
 
+<h1 align="left">🏆 𝙏𝙧𝙤𝙥𝙝𝙮 𝘾𝙖𝙗𝙞𝙣𝙚𝙩</h1>
+<div align="left"><!-- Weird trophy mashup cuz of old account --><img src="https://github-profile-trophy.vercel.app/?username=Arty3&theme=radical&rank=-c,-?&title=-Experience&no-frame=true&no-bg=true&column=5&row=1" width="80%" alt="Trophies Might be Rate Limited" /><img src="https://github-profile-trophy.vercel.app/?username=hamsterhamster98&theme=radical&no-frame=true&no-bg=true&column=1&row=1&title=Experience" width="16%" alt="" /></div>
+
+---
+
 <div align="center">
 	<h3 align="left">📌 𝙏𝙤𝙥 𝙇𝙖𝙣𝙜𝙪𝙖𝙜𝙚𝙨</h3>
 	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arty3&layout=compact&theme=github_dark&include_all_commits=false&count_private=false&langs_count=8&hide=HTML,R,Makefile" width="45%" align="left" alt="Top Languages Might be Rate Limited" />
@@ -32,13 +37,6 @@
 <br>
 <br>
 <br>
-<br>
-<br>
-
----
-
-<h1 align="left">🏆 𝙏𝙧𝙤𝙥𝙝𝙮 𝘾𝙖𝙗𝙞𝙣𝙚𝙩</h1>
-<div align="left"><!-- Weird trophy mashup cuz of old account --><img src="https://github-profile-trophy.vercel.app/?username=Arty3&theme=radical&rank=-c,-?&title=-Experience&no-frame=true&no-bg=true&column=5&row=1" width="80%" alt="Trophies Might be Rate Limited" /><img src="https://github-profile-trophy.vercel.app/?username=hamsterhamster98&theme=radical&no-frame=true&no-bg=true&column=1&row=1&title=Experience" width="16%" alt="" /></div>
 
 ---
 
