@@ -4,34 +4,39 @@
 
 - 🚀 𝙃𝙞<i>!</i> 𝙈𝙮 𝙣𝙖𝙢𝙚 𝙞𝙨 𝙇𝙪𝙘𝙖. 𝙄 𝙬𝙖𝙨 𝙗𝙤𝙧𝙣 𝙞𝙣 𝙋𝙤𝙧𝙩𝙪𝙜𝙖𝙡<i>,</i> 𝙜𝙧𝙚𝙬 𝙪𝙥 𝙞𝙣 𝙄𝙩𝙖𝙡𝙮<i>,</i> 𝙖𝙣𝙙 𝙣𝙤𝙬 𝙡𝙞𝙫𝙚 𝙞𝙣 𝘼𝙢𝙨𝙩𝙚𝙧𝙙𝙖𝙢.
 
-- 🎓 𝙄<i>'</i>𝙢 𝙘𝙪𝙧𝙧𝙚𝙣𝙩𝙡𝙮 𝙨𝙩𝙪𝙙𝙮𝙞𝙣𝙜 𝙥𝙧𝙤𝙜𝙧𝙖𝙢𝙢𝙞𝙣𝙜 𝙝𝙚𝙧𝙚 𝙞𝙣 𝘼𝙢𝙨𝙩𝙚𝙧𝙙𝙖𝙢<i>,</i> 𝙨𝙤𝙤𝙣 𝙩𝙤 𝙜𝙧𝙖𝙙𝙪𝙖𝙩𝙚.
+- 💻 𝙄<i>'</i>𝙢 𝙘𝙪𝙧𝙧𝙚𝙣𝙩𝙡𝙮 𝙬𝙤𝙧𝙠𝙞𝙣𝙜 𝙖𝙨 𝙖 𝘾𝙤𝙢𝙥𝙪𝙩𝙚𝙧 𝙑𝙞𝙨𝙞𝙤𝙣 𝘼𝙄 𝙀𝙣𝙜𝙞𝙣𝙚𝙚𝙧 𝙝𝙚𝙧𝙚 𝙞𝙣 𝘼𝙢𝙨𝙩𝙚𝙧𝙙𝙖𝙢.
 
-- 💡 𝙄<i>'</i>𝙢 𝙖 𝙝𝙞𝙜𝙝𝙡𝙮 𝙚𝙣𝙩𝙝𝙪𝙨𝙞𝙖𝙨𝙩𝙞𝙘 𝙙𝙚𝙫𝙚𝙡𝙤𝙥𝙚𝙧 𝙬𝙞𝙩𝙝 𝙚𝙭𝙥𝙚𝙧𝙩𝙞𝙨𝙚 𝙞𝙣 𝙡𝙤𝙬-𝙡𝙚𝙫𝙚𝙡<i>,</i> 𝙨𝙚𝙘𝙪𝙧𝙞𝙩𝙮<i>,</i> 𝙜𝙖𝙢𝙚 𝙙𝙚𝙫 & 𝘼𝙄.
+- ✨ 𝙄 𝙡𝙤𝙫𝙚 𝙬𝙤𝙧𝙠𝙞𝙣𝙜 𝙤𝙣 𝙡𝙤𝙬-𝙡𝙚𝙫𝙚𝙡 𝙨𝙩𝙪𝙛𝙛<i>,</i> 𝙨𝙚𝙘𝙪𝙧𝙞𝙩𝙮<i>,</i> 𝙜𝙖𝙢𝙚 𝙙𝙚𝙫<i>,</i> 𝙖𝙣𝙙 𝘼𝙄.
 
-- ⭐ 𝙄 𝙝𝙖𝙫𝙚 𝙤𝙫𝙚𝙧 𝙝𝙖𝙡𝙛 𝙖 𝙙𝙚𝙘𝙖𝙙𝙚 𝙤𝙛 𝙥𝙧𝙤𝙜𝙧𝙖𝙢𝙢𝙞𝙣𝙜 𝙚𝙭𝙥𝙚𝙧𝙞𝙚𝙣𝙘𝙚.
+- 🎨 𝙄 𝙡𝙤𝙫𝙚 𝙩𝙤 𝙘𝙧𝙚𝙖𝙩𝙚 𝙢𝙪𝙨𝙞𝙘<i>,</i> 𝙥𝙤𝙬𝙚𝙧𝙡𝙞𝙛𝙩 𝙖𝙣𝙙 𝙗𝙤𝙪𝙡𝙙𝙚𝙧.
 
-- ✨ 𝙄 𝙡𝙤𝙫𝙚 𝙩𝙤 𝙘𝙧𝙚𝙖𝙩𝙚 𝙢𝙪𝙨𝙞𝙘<i>,</i> 𝙥𝙤𝙬𝙚𝙧𝙡𝙞𝙛𝙩 𝙖𝙣𝙙 𝙗𝙤𝙪𝙡𝙙𝙚𝙧.
+---
 
-<br>
 <div align="center">
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arty3&layout=compact&theme=github_dark&include_all_commits=false&count_private=false&langs_count=8&hide=HTML,R" width="45%" align="center" alt="Top Languages Might be Rate Limited" />
+	<h3 align="left">📌 𝙏𝙤𝙥 𝙇𝙖𝙣𝙜𝙪𝙖𝙜𝙚𝙨</h3>
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arty3&layout=compact&theme=github_dark&include_all_commits=false&count_private=false&langs_count=8&hide=HTML,R,Makefile" width="45%" align="left" alt="Top Languages Might be Rate Limited" />
 	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-	<img src="https://github-profile-trophy.vercel.app/?username=Arty3&theme=radical&rank=-B,-C,-?&no-frame=true&no-bg=true&column=3&row=2" width="45%" align="center" alt="Tophies Might be Rate Limited" />
-</div>
-
-<h1>🏆 𝙈𝙮 𝙁𝙖𝙫𝙤𝙧𝙞𝙩𝙚 𝙍𝙚𝙥𝙤𝙨𝙞𝙩𝙤𝙧𝙞𝙚𝙨</h1>
-
-<!-- Brother istfg this little blue underscore will drive me insane -->
-
-<div align="center">
-	<a href="https://github.com/Arty3/Stack-Obfuscator">
-		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Arty3&repo=Stack-Obfuscator&show_owner=false&theme=ambient_gradient&description_lines_count=2" width="48%" align="center" alt="" />
-	</a>
-	&nbsp;&nbsp;
-	<a href="https://github.com/Arty3/Worst-Hello-World">
-		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Arty3&repo=Worst-Hello-World&show_owner=false&theme=ambient_gradient&description_lines_count=2" width="48%" align="center" alt="" />
+	<br>
+	<br>
+	<br>
+	<h3 align="right">📌 𝘾𝙪𝙧𝙧𝙚𝙣𝙩𝙡𝙮 𝙒𝙤𝙧𝙠𝙞𝙣𝙜 𝙊𝙣</h3>
+	<a href="https://github.com/Arty3/lgmalloc">
+		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Arty3&repo=lgmalloc&show_owner=false&theme=ambient_gradient&description_lines_count=4" width="48%" align="right" alt="" />
 	</a>
 </div>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<br>
+<br>
+<br>
+<br>
+
+---
+
+<h2 align="left">🏆 𝙏𝙧𝙤𝙥𝙝𝙮 𝘾𝙖𝙗𝙞𝙣𝙚𝙩</h2>
+<div align="left"><!-- Weird trophy mashup cuz of old account --><img src="https://github-profile-trophy.vercel.app/?username=Arty3&theme=radical&rank=-c,-?&title=-Experience&no-frame=true&no-bg=true&column=5&row=1" width="80%" alt="Trophies Might be Rate Limited" /><img src="https://github-profile-trophy.vercel.app/?username=hamsterhamster98&theme=radical&no-frame=true&no-bg=true&column=1&row=1&title=Experience" width="16%" alt="" /></div>
+
+---
 
 <h1>💻 𝙏𝙚𝙘𝙝𝙣𝙤𝙡𝙤𝙜𝙞𝙚𝙨</h1>
 
