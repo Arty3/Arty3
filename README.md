@@ -19,6 +19,7 @@
 	<br>
 	<br>
 	<br>
+	<br>
 	<h3 align="right">📌 𝘾𝙪𝙧𝙧𝙚𝙣𝙩𝙡𝙮 𝙒𝙤𝙧𝙠𝙞𝙣𝙜 𝙊𝙣</h3>
 	<a href="https://github.com/Arty3/lgmalloc">
 		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Arty3&repo=lgmalloc&show_owner=false&theme=ambient_gradient&description_lines_count=4" width="48%" align="right" alt="" />
