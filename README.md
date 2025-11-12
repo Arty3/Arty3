@@ -12,6 +12,15 @@
 
 ---
 
+> [!IMPORTANT]
+> 𝙃𝙚𝙮<i>!</i> 𝙎𝙤𝙧𝙧𝙮 𝙛𝙤𝙧 𝙩𝙝𝙚 𝙞𝙣𝙖𝙘𝙩𝙞𝙫𝙞𝙩𝙮.
+> 𝙈𝙮 𝙖𝙘𝙘𝙤𝙪𝙣𝙩 𝙬𝙖𝙨 𝙪𝙣𝙚𝙭𝙥𝙚𝙘𝙩𝙚𝙙𝙡𝙮 𝙗𝙖𝙣𝙣𝙚𝙙 𝙛𝙤𝙧 𝙖 𝙢𝙤𝙣𝙩𝙝 (𝙨𝙩𝙞𝙡𝙡 𝙙𝙤𝙣<i>'</i>𝙩 𝙠𝙣𝙤𝙬 𝙬𝙝𝙮).
+> 𝘼𝙧𝙤𝙪𝙣𝙙 𝙩𝙝𝙚 𝙨𝙖𝙢𝙚 𝙩𝙞𝙢𝙚<i>,</i> 𝙢𝙮 𝙋𝘾<i>'</i>𝙨 𝙥𝙤𝙬𝙚𝙧 𝙨𝙪𝙥𝙥𝙡𝙮 𝙙𝙞𝙚𝙙<i>,</i> 𝙨𝙤
+> 𝙄 𝙙𝙚𝙘𝙞𝙙𝙚𝙙 𝙩𝙤 𝙩𝙖𝙠𝙚 𝙩𝙝𝙚 𝙤𝙥𝙥𝙤𝙧𝙩𝙪𝙣𝙞𝙩𝙮 𝙩𝙤 𝙨𝙩𝙚𝙥 𝙖𝙬𝙖𝙮 𝙛𝙤𝙧 𝙖 𝙗𝙞𝙩 𝙖𝙣𝙙 𝙚𝙭𝙥𝙡𝙤𝙧𝙚 𝙣𝙚𝙬 𝙩𝙝𝙞𝙣𝙜𝙨.
+> 𝙄<i>'</i>𝙢 𝙥𝙡𝙖𝙣𝙣𝙞𝙣𝙜 𝙩𝙤 𝙛𝙞𝙭 𝙢𝙮 𝙋𝘾 𝙖𝙧𝙤𝙪𝙣𝙙 𝙩𝙝𝙚 𝙣𝙚𝙬 𝙮𝙚𝙖𝙧<i>,</i> 𝙨𝙤 𝙄<i>'</i>𝙡𝙡 𝙗𝙚 𝙗𝙖𝙘𝙠 𝙩𝙝𝙚𝙣<i>!</i>
+
+---
+
 <h1 align="left">🏆 𝙏𝙧𝙤𝙥𝙝𝙮 𝘾𝙖𝙗𝙞𝙣𝙚𝙩</h1>
 <div align="left"><!-- Weird trophy mashup cuz of old account --><img src="https://github-profile-trophy.vercel.app/?username=Arty3&theme=radical&rank=-c,-?&title=-Experience&no-frame=true&no-bg=true&column=5&row=1" width="80%" alt="Trophies Might be Rate Limited" /><img src="https://github-profile-trophy.vercel.app/?username=hamsterhamster98&theme=radical&no-frame=true&no-bg=true&column=1&row=1&title=Experience" width="16%" alt="" /></div>
 
@@ -25,9 +34,9 @@
 	<br>
 	<br>
 	<br>
-	<h3 align="right">📌 𝘾𝙪𝙧𝙧𝙚𝙣𝙩𝙡𝙮 𝙒𝙤𝙧𝙠𝙞𝙣𝙜 𝙊𝙣</h3>
-	<a href="https://github.com/Arty3/lgmalloc">
-		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Arty3&repo=lgmalloc&show_owner=false&theme=ambient_gradient&description_lines_count=4" width="48%" align="right" alt="" />
+	<h3 align="right">📌 𝙁𝙖𝙫𝙤𝙧𝙞𝙩𝙚 𝙍𝙚𝙥𝙤𝙨𝙞𝙩𝙤𝙧𝙮</h3>
+	<a href="https://github.com/Arty3/Stack-Obfuscator">
+		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Arty3&repo=Stack-Obfuscator&show_owner=false&theme=ambient_gradient&description_lines_count=4" width="48%" align="right" alt="" />
 	</a>
 </div>
 
